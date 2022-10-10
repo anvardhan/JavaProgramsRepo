@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="22" total="23" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="112" started-at="2022-09-11T14:33:40 CDT" finished-at="2022-09-11T14:33:40 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="112" started-at="2022-09-11T14:33:40 CDT" finished-at="2022-09-11T14:33:40 CDT">
+      <class name="collectionsframework.Programs_Collections">
+        <test-method status="PASS" signature="DuplicateCharactersTest()[pri:0, instance:collectionsframework.Programs_Collections@4b4523f8]" name="DuplicateCharactersTest" duration-ms="21" started-at="2022-09-11T14:33:40 CDT" finished-at="2022-09-11T14:33:40 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DuplicateCharactersTest -->
+      </class> <!-- collectionsframework.Programs_Collections -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
